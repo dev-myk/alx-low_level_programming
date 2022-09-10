@@ -1,15 +1,15 @@
 #include <stdio.h>
 /**
- * main - main block
- * Description: print all possible combinations of two digits.
- * numbers must be separated by commas and a space.
- * 01 and 10 are considered as the same combination of the two digits.
- * print only the smallest combination of two digits.
- * numbers should be printed in ascending order, with two digits.
- * you can only use 'putchar'.
- * you can only use 'putchar' up to 5 times.
- * you are not allowed to use any variable of type 'char'.
- */
+* main - main block
+* Description: print all possible combinations of two digits.
+* numbers must be separated by commas and a space.
+* 01 and 10 are considered as the same combination of the two digits.
+* print only the smallest combination of two digits.
+* numbers should be printed in ascending order, with two digits.
+* you can only use 'putchar'.
+* you can only use 'putchar' up to 5 times.
+* you are not allowed to use any variable of type 'char'.
+*/
 int main(void)
 {
 	int i, j, k;
