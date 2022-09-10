@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdlib.h>
 /**
- * main
+ * main - main block
  * Description: Assign random number
  * print number if its negative, zero or positive
  * Return: 0
