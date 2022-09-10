@@ -9,6 +9,7 @@
 * you can only use 'putchar'.
 * you can only use 'putchar' up to 5 times.
 * you are not allowed to use any variable of type 'char'.
+* Return: 0
 */
 int main(void)
 {
