@@ -13,7 +13,7 @@ return (1 + _strlen_recursion(s + 1));
 return (0);
 }
 /**
- * _check_palindrome - Checks is a string isa palindrome
+ * _check_palindrome - Checks if a string is a palindrome
  * @r: Right index
  * @l: Left index
  * @p: String being checked
@@ -25,7 +25,7 @@ if (l >= r)
 {
 return (1);
 }
-else if (p[1] != p[r])
+else if (p[l] != p[r])
 {
 return (0);
 }
